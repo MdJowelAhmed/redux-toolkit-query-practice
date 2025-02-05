@@ -1,0 +1,44 @@
+{
+"posts":[
+    {
+        "id": 1,
+        "name": "Jowel Ahmed",
+        "email": "jowel.ahmed@example.com",
+        "university": "University of Dhaka",
+        "mobile": "+8801712345678",
+        "location": "Dhaka, Bangladesh"
+    },
+    {
+        "id": 2,
+        "name": "Mehedi Hasan",
+        "email": "mehedi.hasan@example.com",
+        "university": "Rajshahi University",
+        "mobile": "+8801719876543",
+        "location": "Rajshahi, Bangladesh"
+    },
+    {
+        "id": 3,
+        "name": "Ayesha Sultana",
+        "email": "ayesha.sultana@example.com",
+        "university": "Chittagong University",
+        "mobile": "+8801711122334",
+        "location": "Chittagong, Bangladesh"
+    },
+    {
+        "id": 4,
+        "name": "Tanvir Rahman",
+        "email": "tanvir.rahman@example.com",
+        "university": "Khulna University",
+        "mobile": "+8801715566778",
+        "location": "Khulna, Bangladesh"
+    },
+    {
+        "id": 5,
+        "name": "Nusrat Jahan",
+        "email": "nusrat.jahan@example.com",
+        "university": "Jahangirnagar University",
+        "mobile": "+8801719988776",
+        "location": "Savar, Bangladesh"
+    }
+]
+}
